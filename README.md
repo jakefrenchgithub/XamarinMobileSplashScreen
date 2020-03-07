@@ -1,1 +1,2 @@
 "# XamarinMobileSplashScreen" 
+[Xamarin Mobile Android - how to add a splash screen](https://medium.com/@jakefrench/xamarin-mobile-development-d8f0c7172812) - _Xamarin Mobile Android: Add splash screen_
